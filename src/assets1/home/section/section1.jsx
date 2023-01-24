@@ -1,5 +1,6 @@
 import Img1 from "../../../images/icons/award.svg";
 import Img2 from "../../../images/icons/verified_user.svg";
+import Img3 from "../../../images/icons/headphones.svg";
 function sec1(){
     return (
       <section id="feature">
@@ -21,7 +22,7 @@ function sec1(){
             <article className="feature" data-aos="flip-up">
               <span className="icon-wraper">
                 <img
-                  src="src/images/icons/headphones.svg"
+                  src={Img3}
                   alt="Feature icons"
                   className="icon"
                 />
