@@ -4,7 +4,7 @@ function Header(){
         <div className="container flex">
           <div className="logo">
             <img src="src/images/icons/Logo.svg" alt="LOGO" />
-            wakanda
+            wakand
           </div>
           <div className="sm-menu">
             <a href="#smmenu">
