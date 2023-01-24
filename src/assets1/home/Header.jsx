@@ -3,7 +3,7 @@ function Header(){
       <header id="main-header" data-aos="fade-down">
         <div className="container flex">
           <div className="logo">
-            <img src="images/icons/Logo.svg" alt="LOGO" />
+            <img src="src/images/icons/Logo.svg" alt="LOGO" />
             wakanda
           </div>
           <div className="sm-menu">

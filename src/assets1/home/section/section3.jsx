@@ -14,7 +14,7 @@ function sec3(){
             </a>
           </div>
           <div className="portion" data-aos="zoom-in-left">
-            <img src="images/explore.png" alt="explore talents" />
+            <img src="src/images/explore.png" alt="explore talents" />
           </div>
         </div>
       </section>

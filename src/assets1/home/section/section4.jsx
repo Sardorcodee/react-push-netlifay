@@ -11,15 +11,15 @@ function sec4(){
               data-aos-duration="2000"
             >
               <div className="flex">
-                <img src="images/Avatar.png" alt="User image" />
+                <img src="src/images/Avatar.png" alt="User image" />
                 <div>
                   <h4>Cara Bedford</h4>
                   <div className="flex">
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
                   </div>
                 </div>
               </div>
@@ -36,15 +36,15 @@ function sec4(){
               data-aos-duration="2000"
             >
               <div className="flex">
-                <img src="images/Avatar.png" alt="User image" />
+                <img src="src/images/Avatar.png" alt="User image" />
                 <div>
                   <h4>Cara Bedford</h4>
                   <div className="flex">
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
                   </div>
                 </div>
               </div>
@@ -63,15 +63,15 @@ function sec4(){
               data-aos-duration="2000"
             >
               <div className="flex">
-                <img src="images/Avatar.png" alt="User image" />
+                <img src="src/images/Avatar.png" alt="User image" />
                 <div>
                   <h4>Cara Bedford</h4>
                   <div className="flex">
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
                   </div>
                 </div>
               </div>
@@ -87,15 +87,15 @@ function sec4(){
               data-aos-duration="2000"
             >
               <div className="flex">
-                <img src="images/Avatar.png" alt="User image" />
+                <img src="src/images/Avatar.png" alt="User image" />
                 <div>
                   <h4>Cara Bedford</h4>
                   <div className="flex">
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
                   </div>
                 </div>
               </div>
@@ -116,15 +116,15 @@ function sec4(){
               data-aos-duration="2000"
             >
               <div className="flex">
-                <img src="images/Avatar.png" alt="User image" />
+                <img src="src/images/Avatar.png" alt="User image" />
                 <div>
                   <h4>Cara Bedford</h4>
                   <div className="flex">
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
                   </div>
                 </div>
               </div>
@@ -141,15 +141,15 @@ function sec4(){
               data-aos-duration="2000"
             >
               <div className="flex">
-                <img src="images/Avatar.png" alt="User image" />
+                <img src="src/images/Avatar.png" alt="User image" />
                 <div>
                   <h4>Cara Bedford</h4>
                   <div className="flex">
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
-                    <img src="images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src="src/images/icons/star.svg" alt="star" />
                   </div>
                 </div>
               </div>

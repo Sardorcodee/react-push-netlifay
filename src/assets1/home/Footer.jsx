@@ -7,7 +7,7 @@ function footer(){
         <div className="container flex">
           <div className="athird">
             <div className="logo" data-aos="fade-right">
-              <img src="images/icons/Logo-footer.svg" alt="LOGO" />
+              <img src="src/images/icons/Logo-footer.svg" alt="LOGO" />
               wakanda
             </div>
 
@@ -15,22 +15,22 @@ function footer(){
               <ul className="flex" data-aos="flip-right">
                 <li>
                   <a href="#">
-                    <img src="images/icons/instagram.svg" alt="social link" />
+                    <img src="src/images/icons/instagram.svg" alt="social link" />
                   </a>
                 </li>
                 <li>
                   <a href="#">
-                    <img src="images/icons/dribble.svg" alt="social link" />
+                    <img src="src/images/icons/dribble.svg" alt="social link" />
                   </a>
                 </li>
                 <li>
                   <a href="#">
-                    <img src="images/icons/twitter.svg" alt="social link" />
+                    <img src="src/images/icons/twitter.svg" alt="social link" />
                   </a>
                 </li>
                 <li>
                   <a href="#">
-                    <img src="images/icons/youtube.svg" alt="social link" />
+                    <img src="src/images/icons/youtube.svg" alt="social link" />
                   </a>
                 </li>
               </ul>
@@ -87,7 +87,7 @@ function footer(){
                   name="email"
                 />
                 <button type="submit">
-                  <img src="images/icons/send.svg" alt="Submit" />
+                  <img src="src/images/icons/send.svg" alt="Submit" />
                 </button>
               </div>
             </form>

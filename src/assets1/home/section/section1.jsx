@@ -8,7 +8,7 @@ function sec1(){
             <article className="feature" data-aos="flip-up">
               <span className="icon-wraper">
                 <img
-                  src="images/icons/award.svg"
+                  src="src/images/icons/award.svg"
                   alt="Feature icons"
                   className="icon"
                 />
@@ -23,7 +23,7 @@ function sec1(){
             <article className="feature" data-aos="flip-up">
               <span className="icon-wraper">
                 <img
-                  src="images/icons/headphones.svg"
+                  src="src/images/icons/headphones.svg"
                   alt="Feature icons"
                   className="icon"
                 />
@@ -38,7 +38,7 @@ function sec1(){
             <article className="feature" data-aos="flip-up">
               <span className="icon-wraper">
                 <img
-                  src="images/icons/verified_user.svg"
+                  src="src/images/icons/verified_user.svg"
                   alt="Feature icons"
                   className="icon"
                 />

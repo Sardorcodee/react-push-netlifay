@@ -7,7 +7,7 @@ function sec2(){
               data-aos="fade-right"
               data-aos-offset="300"
               data-aos-easing="ease-in-sine"
-              src="images/window.png"
+              src="src/images/window.png"
               alt="Window"
             />
           </div>
@@ -24,12 +24,12 @@ function sec2(){
                 <span className="counter">3</span>Voluptas quidem porro a omnis.
               </li>
               <li>
-                <span className="counter">4</span>Porro tenetur dolorem architecto
-                inventore?
+                <span className="counter">4</span>Porro tenetur dolorem
+                architecto inventore?
               </li>
               <li>
-                <span className="counter">5</span>Laborum voluptatibus cupiditate
-                fugiat fugit?
+                <span className="counter">5</span>Laborum voluptatibus
+                cupiditate fugiat fugit?
               </li>
             </ol>
           </div>
