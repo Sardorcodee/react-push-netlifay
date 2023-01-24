@@ -1,3 +1,5 @@
+import Img1 from "../../../images/Avatar.png";
+import Img2 from "../../../images/icons/star.svg";
 function sec4(){
     return (
       <section id="testimonials">
@@ -11,15 +13,15 @@ function sec4(){
               data-aos-duration="2000"
             >
               <div className="flex">
-                <img src="src/images/Avatar.png" alt="User image" />
+                <img src={Img1} alt="User image" />
                 <div>
                   <h4>Cara Bedford</h4>
                   <div className="flex">
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
                   </div>
                 </div>
               </div>
@@ -36,15 +38,15 @@ function sec4(){
               data-aos-duration="2000"
             >
               <div className="flex">
-                <img src="src/images/Avatar.png" alt="User image" />
+                <img src={Img1} alt="User image" />
                 <div>
                   <h4>Cara Bedford</h4>
                   <div className="flex">
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
                   </div>
                 </div>
               </div>
@@ -63,15 +65,15 @@ function sec4(){
               data-aos-duration="2000"
             >
               <div className="flex">
-                <img src="src/images/Avatar.png" alt="User image" />
+                <img src={Img1} alt="User image" />
                 <div>
                   <h4>Cara Bedford</h4>
                   <div className="flex">
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
                   </div>
                 </div>
               </div>
@@ -87,15 +89,15 @@ function sec4(){
               data-aos-duration="2000"
             >
               <div className="flex">
-                <img src="src/images/Avatar.png" alt="User image" />
+                <img src={Img1} alt="User image" />
                 <div>
                   <h4>Cara Bedford</h4>
                   <div className="flex">
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
                   </div>
                 </div>
               </div>
@@ -116,15 +118,15 @@ function sec4(){
               data-aos-duration="2000"
             >
               <div className="flex">
-                <img src="src/images/Avatar.png" alt="User image" />
+                <img src={Img1} alt="User image" />
                 <div>
                   <h4>Cara Bedford</h4>
                   <div className="flex">
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
                   </div>
                 </div>
               </div>
@@ -141,15 +143,15 @@ function sec4(){
               data-aos-duration="2000"
             >
               <div className="flex">
-                <img src="src/images/Avatar.png" alt="User image" />
+                <img src={Img1} alt="User image" />
                 <div>
                   <h4>Cara Bedford</h4>
                   <div className="flex">
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
-                    <img src="src/images/icons/star.svg" alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
+                    <img src={Img2} alt="star" />
                   </div>
                 </div>
               </div>

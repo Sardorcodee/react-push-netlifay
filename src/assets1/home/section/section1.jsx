@@ -1,3 +1,5 @@
+import Img1 from "../../../images/icons/award.svg";
+import Img2 from "../../../images/icons/verified_user.svg";
 function sec1(){
     return (
       <section id="feature">
@@ -7,11 +9,7 @@ function sec1(){
           <div className="flex">
             <article className="feature" data-aos="flip-up">
               <span className="icon-wraper">
-                <img
-                  src="src/images/icons/award.svg"
-                  alt="Feature icons"
-                  className="icon"
-                />
+                <img src={Img1} alt="Feature icons" className="icon" />
               </span>
               <h3>Professional & Fast</h3>
               <p>
@@ -37,11 +35,7 @@ function sec1(){
             </article>
             <article className="feature" data-aos="flip-up">
               <span className="icon-wraper">
-                <img
-                  src="src/images/icons/verified_user.svg"
-                  alt="Feature icons"
-                  className="icon"
-                />
+                <img src={Img2} alt="Feature icons" className="icon" />
               </span>
               <h3>Professional & Fast</h3>
               <p>

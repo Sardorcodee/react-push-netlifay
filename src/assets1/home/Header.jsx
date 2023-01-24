@@ -1,9 +1,10 @@
+import Logo from "../../images/icons/Logo.svg";
 function Header(){
     return (
       <header id="main-header" data-aos="fade-down">
         <div className="container flex">
           <div className="logo">
-            <img src="src/images/icons/Logo.svg" alt="LOGO" />
+            <img src={Logo} alt="LOGO" />
             wakanda
           </div>
           <div className="sm-menu">

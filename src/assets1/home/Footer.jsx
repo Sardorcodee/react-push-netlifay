@@ -1,4 +1,9 @@
-
+import Logo from "../../images/icons/Logo-footer.svg";
+import Logo1 from "../../images/icons/instagram.svg";
+import Logo2 from "../../images/icons/dribble.svg";
+import Logo3 from "../../images/icons/twitter.svg";
+import Logo4 from "../../images/icons/youtube.svg";
+import Logo5 from "../../images/icons/send.svg";
 
 
 function footer(){
@@ -7,7 +12,7 @@ function footer(){
         <div className="container flex">
           <div className="athird">
             <div className="logo" data-aos="fade-right">
-              <img src="src/images/icons/Logo-footer.svg" alt="LOGO" />
+              <img src={Logo} alt="LOGO" />
               wakanda
             </div>
 
@@ -15,22 +20,22 @@ function footer(){
               <ul className="flex" data-aos="flip-right">
                 <li>
                   <a href="#">
-                    <img src="src/images/icons/instagram.svg" alt="social link" />
+                    <img src={Logo1} alt="social link" />
                   </a>
                 </li>
                 <li>
                   <a href="#">
-                    <img src="src/images/icons/dribble.svg" alt="social link" />
+                    <img src={Logo2} alt="social link" />
                   </a>
                 </li>
                 <li>
                   <a href="#">
-                    <img src="src/images/icons/twitter.svg" alt="social link" />
+                    <img src={Logo3} alt="social link" />
                   </a>
                 </li>
                 <li>
                   <a href="#">
-                    <img src="src/images/icons/youtube.svg" alt="social link" />
+                    <img src={Logo4} alt="social link" />
                   </a>
                 </li>
               </ul>
@@ -87,14 +92,14 @@ function footer(){
                   name="email"
                 />
                 <button type="submit">
-                  <img src="src/images/icons/send.svg" alt="Submit" />
+                  <img src={Logo5} alt="Submit" />
                 </button>
               </div>
             </form>
           </div>
         </div>
       </footer>
-    )
+    );
     
 }
 

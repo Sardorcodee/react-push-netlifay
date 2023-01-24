@@ -1,3 +1,4 @@
+import Img1 from "../../../images/window.png";
 function sec2(){
     return (
       <section id="steps">
@@ -7,7 +8,7 @@ function sec2(){
               data-aos="fade-right"
               data-aos-offset="300"
               data-aos-easing="ease-in-sine"
-              src="src/images/window.png"
+              src={Img1}
               alt="Window"
             />
           </div>
